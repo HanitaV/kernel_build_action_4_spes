@@ -42,6 +42,7 @@ jobs:
           aosp-gcc: true
           aosp-clang: true
           ksu: true
+          ksu-other	: true
           ksu-url	: https://github.com/rifsxd/KernelSU-Next
           ksu-version: next-susfs
           android-version: 12
